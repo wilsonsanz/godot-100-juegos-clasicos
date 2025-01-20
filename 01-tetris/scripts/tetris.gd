@@ -1,4 +1,4 @@
-class_name Tetris extends Node2D
+class_name tetris extends Node2D
 
 @export var shape: TetrisConstants.Shape = TetrisConstants.Shape.SQUARE
 
